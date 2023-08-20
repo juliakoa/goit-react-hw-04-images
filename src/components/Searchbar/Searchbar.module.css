@@ -1,0 +1,23 @@
+.searchbar {
+  margin-bottom: 20px;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+}
+
+.button {
+  background-color: #007bff;
+  border: none;
+  color: #fff;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+.input {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
